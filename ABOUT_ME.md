@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nvdolski
 - 👀 I’m interested in Data Analysis & Web Development
-- 🌱 I’m currently exploring possibilities with Python and learning web development with HTML, CSS & JS
+- 🌱 I’m currently exploring possibilities with Python and learning web development with HTML, CSS and JS
 - 📫 Reach out to me on LinkedIn or Discord 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm born & raised in Poland, but moved to Denmark in 2022 when I was 15
+- ⚡ Fun fact: I'm born and raised in Poland, but moved to Denmark in 2022 when I was 15
